@@ -8,5 +8,5 @@ A basic User Management application capable of performing CRUD operations; i.e.,
 
 ## Installation
 
-run bash``npm i && npm start`` for both client and server side to start the app
+run bash``npm i && npm start`` to start the app
     
